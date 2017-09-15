@@ -11,3 +11,7 @@
         http://localhost:8888/?token=f4ff3a4e687835ce4f13e25241af5fb96052f6f42db5bd85
 [I 19:02:04.177 NotebookApp] Accepting one-time-token-authenticated connection from ::1
 
+
+> install skiamge (library used to manupilate image):
+
+pip3 install scikit-image
